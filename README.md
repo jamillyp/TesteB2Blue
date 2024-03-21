@@ -2,15 +2,13 @@
 
 Projeto realizado para fins de teste para a Empresa B2Blue.
 
-#Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React + Typescript + Vite
 - Material UI 
 
 # Como executar o projeto
-
-## Front end web
-Pré-requisitos: yarn
+## Pré-requisitos: yarn
 
 ```bash
 # clonar repositório
@@ -21,6 +19,9 @@ yarn install || yarn
 
 # executar o projeto
 yarn dev
+
+# local ele irá executar no link abaixo
+http://localhost:5173/
 
 # Autora
 
